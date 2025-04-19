@@ -1,2 +1,5 @@
-<!DOCT&#x59;PE root [<!ENTITY test "bypass">]>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root [
+  <!ENTITY test "it_works">
+]>
 <root>&test;</root>
