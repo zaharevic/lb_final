@@ -1,0 +1,2 @@
+<!DOCT&#x59;PE root [<!ENTITY test "bypass">]>
+<root>&test;</root>
