@@ -1,5 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE root [
-  <!ENTITY test "XXE_WORKS">
-]>
-<root>&test;</root>
+<root>Hello World</root>
